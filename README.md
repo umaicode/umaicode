@@ -7,4 +7,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umaicode&langs_count=10&layout=compact&theme=dark)](https://github.com/umaicode/umaicode)
 
-![GitHub Metrics](https://metrics.lecoq.io/umaicode?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&languages=1&languages.ignored=jupyter%20notebook%2C%20jupyter&languages.details=percentage&languages.limit=8&config.timezone=Asia%2FSeoul)
+![GitHub Metrics](https://metrics.lecoq.io/umaicode?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&languages=1&languages.ignored=jupyter%20notebook%2C%20jupyter%2C%20html%2C%20css&languages.details=percentage&languages.limit=8&config.timezone=Asia%2FSeoul&cache=0)

@@ -3,8 +3,4 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=natalie)](https://solved.ac/natalie)
 
-![umaicode's GitHub stats](https://github-readme-stats.vercel.app/api?username=umaicode&show_icons=true&theme=onedark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umaicode&langs_count=10&layout=compact&theme=dark)](https://github.com/umaicode/umaicode)
-
-![GitHub Metrics](https://metrics.lecoq.io/umaicode?template=classic&base=&languages=1&languages.limit=8&languages.map=python%3Adjango%2C%20javascript%3Avue&languages.colors=github&languages.details=percentage&config.timezone=Asia%2FSeoul&cache=0)
+![GitHub Metrics](https://metrics.lecoq.io/umaicode?template=classic&base=false&languages=1&languages.limit=8&languages.map=python%3Adjango%2C%20javascript%3Avue&languages.colors=github&languages.details=percentage&config.timezone=Asia%2FSeoul&cache=0)

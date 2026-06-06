@@ -138,8 +138,8 @@ To ensure that users' inconveniences lead to stable service experiences, I conti
 
 <table width="100%">
   <tr>
-    <th align="left" width="27%">기간</th>
-    <th align="left" width="73%">내용</th>
+    <th align="left" width="26%">기간</th>
+    <th align="left" width="74%">내용</th>
   </tr>
   <tr>
     <td>2025.07~2026.07</td>

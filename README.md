@@ -166,8 +166,8 @@ To ensure that users' inconveniences lead to stable service experiences, I conti
 
 <table width="100%">
   <tr>
-    <th align="left" width="35%">Date</th>
-    <th align="left" width="65%">Certificate</th>
+    <th align="left">Date</th>
+    <th align="left">Certificate</th>
   </tr>
   <tr>
     <td>YYYY.MM</td>
@@ -180,6 +180,10 @@ To ensure that users' inconveniences lead to stable service experiences, I conti
   <tr>
     <td>YYYY.MM</td>
     <td>OPIc</td>
+  </tr>
+    <tr>
+    <td>2018.02</td>
+    <td>한국사능력검정시험 1급</td>
   </tr>
 </table>
 

@@ -44,9 +44,9 @@ To ensure that users' inconveniences lead to stable service experiences, I conti
 
 <h2>🏆 Awards</h2>
 
-<p>🥇 삼성 청년 SW·AI 아카데미 14기 자율 프로젝트 우수상</p>
-<p>🥇 삼성 청년 SW·AI 아카데미 14기 특화 프로젝트 우수상</p>
-<p>🥇 삼성 청년 SW·AI 아카데미 14기 공통 프로젝트 우수상</p>
+<p>🥇 삼성청년SW·AI아카데미 14기 자율프로젝트 우수상</p>
+<p>🥇 삼성청년SW·AI아카데미 14기 특화프로젝트 우수상</p>
+<p>🥇 삼성청년SW·AI아카데미 14기 공통프로젝트 우수상</p>
 
 </td>
   </tr>
@@ -148,8 +148,9 @@ To ensure that users' inconveniences lead to stable service experiences, I conti
   <tr>
     <td>2019.03 ~ 2025.08</td>
     <td>
-      부산대학교 예술대학 디자인학과 디자인앤테크놀로지(주전공)<br/>
-      부산대학교 공과대학 전기컴퓨터공학부 정보컴퓨터공학(복수전공)
+      부산대학교<br/>
+      예술대학 디자인학과 디자인앤테크놀로지(주전공)<br/>
+      공과대학 전기컴퓨터공학부 정보컴퓨터공학(복수전공)
     </td>
   </tr>
   <tr>

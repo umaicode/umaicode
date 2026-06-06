@@ -142,11 +142,11 @@ To ensure that users' inconveniences lead to stable service experiences, I conti
     <th align="left">Details</th>
   </tr>
   <tr>
-    <td>2025.07 ~ 2026.07</td>
+    <td>2025.07~2026.07</td>
     <td>삼성 청년 SW·AI 아카데미 14기</td>
   </tr>
   <tr>
-    <td>2019.03 ~ 2025.08</td>
+    <td>2019.03~2025.08</td>
     <td>
       부산대학교<br/>
       예술대학 디자인학과 디자인앤테크놀로지(주전공)<br/>
@@ -154,7 +154,7 @@ To ensure that users' inconveniences lead to stable service experiences, I conti
     </td>
   </tr>
   <tr>
-    <td>2015.03 ~ 2018.02</td>
+    <td>2015.03~2018.02</td>
     <td>가온고등학교</td>
   </tr>
 </table>

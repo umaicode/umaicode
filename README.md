@@ -134,12 +134,12 @@ To ensure that users' inconveniences lead to stable service experiences, I conti
   <tr>
     <td valign="top" width="50%">
 
-<h2>🎓 Education</h2>
+<h2>🎓 Educations</h2>
 
 <table width="100%">
   <tr>
-    <th align="left" width="26%">기간</th>
-    <th align="left" width="74%">내용</th>
+    <th align="left" nowrap>Period</th>
+    <th align="left">Details</th>
   </tr>
   <tr>
     <td>2025.07 ~ 2026.07</td>
@@ -162,12 +162,12 @@ To ensure that users' inconveniences lead to stable service experiences, I conti
 </td>
 <td valign="top" width="50%">
 
-<h2>📜 Certificate</h2>
+<h2>📜 Certificates</h2>
 
 <table width="100%">
   <tr>
-    <th align="left" width="35%">취득일</th>
-    <th align="left" width="65%">자격증</th>
+    <th align="left" width="35%">Date</th>
+    <th align="left" width="65%">Certificate</th>
   </tr>
   <tr>
     <td>YYYY.MM</td>

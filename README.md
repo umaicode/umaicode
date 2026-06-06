@@ -10,42 +10,47 @@ To ensure that users' inconveniences lead to stable service experiences, I conti
 
 ---
 
-<div style="display: flex; gap: 20px; align-items: flex-start;">
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
 
-  <div style="flex: 1; min-width: 280px;">
-    <h2>🛠 Projects</h2>
-    <table width="100%">
-      <tr>
-        <th align="left">Project</th>
-        <th align="left">Description</th>
-      </tr>
-      <tr>
-        <td><b><a href="https://github.com/umaicode/HappyNurse">HappyNurse</a></b></td>
-        <td>간호사를 위한 AI 업무 자동화 비서</td>
-      </tr>
-      <tr>
-        <td><b><a href="https://github.com/umaicode/PiView">PiView</a></b></td>
-        <td>나만의 맞춤형 스킨케어 큐레이션 플랫폼</td>
-      </tr>
-      <tr>
-        <td><b><a href="https://github.com/umaicode/carryporter">CarryPorter</a></b></td>
-        <td>교통 약자를 위한 자율주행 짐 운반 로봇 시스템</td>
-      </tr>
-      <tr>
-        <td><b><a href="https://github.com/umaicode/FINK">F!NK</a></b></td>
-        <td>AI 기반 맞춤형 금융 상품 추천 플랫폼</td>
-      </tr>
-    </table>
-  </div>
+<h2>🛠 Projects</h2>
 
-  <div style="flex: 1; min-width: 280px;">
-    <h2>🏆 Awards</h2>
-    <p>🥇 삼성 청년 SW·AI 아카데미 14기 자율 프로젝트 우수상</p>
-    <p>🥇 삼성 청년 SW·AI 아카데미 14기 특화 프로젝트 우수상</p>
-    <p>🥇 삼성 청년 SW·AI 아카데미 14기 공통 프로젝트 우수상</p>
-  </div>
+<table width="100%">
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Description</th>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/umaicode/HappyNurse">HappyNurse</a></b></td>
+    <td>간호사를 위한 AI 업무 자동화 비서</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/umaicode/PiView">PiView</a></b></td>
+    <td>나만의 맞춤형 스킨케어 큐레이션 플랫폼</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/umaicode/carryporter">CarryPorter</a></b></td>
+    <td>교통 약자를 위한 자율주행 짐 운반 로봇 시스템</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/umaicode/FINK">F!NK</a></b></td>
+    <td>AI 기반 맞춤형 금융 상품 추천 플랫폼</td>
+  </tr>
+</table>
 
-</div>
+</td>
+<td valign="top" width="50%">
+
+<h2>🏆 Awards</h2>
+
+<p>🥇 삼성청년SW·AI아카데미 14기 자율프로젝트 우수상</p>
+<p>🥇 삼성청년SW·AI아카데미 14기 특화프로젝트 우수상</p>
+<p>🥇 삼성청년SW·AI아카데미 14기 공통프로젝트 우수상</p>
+
+</td>
+  </tr>
+</table>
 
 ---
 

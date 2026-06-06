@@ -132,7 +132,7 @@ To ensure that users' inconveniences lead to stable service experiences, I conti
 
 <table width="100%">
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%>
 
 <h2>🎓 Education</h2>
 
@@ -160,7 +160,7 @@ To ensure that users' inconveniences lead to stable service experiences, I conti
 </table>
 
 </td>
-<td valign="top" width="1%">
+<td valign="top" width="50%">
 
 <h2>📜 Certificate</h2>
 

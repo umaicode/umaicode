@@ -180,11 +180,6 @@ To ensure that users' inconveniences lead to stable service experiences, I conti
   <tr>
     <td>2026.xx</td>
     <td>OPIc</td>
-  </tr>
-    <tr>
-    <td>2018.02</td>
-    <td>한국사능력검정시험1급</td>
-  </tr>
 </table>
 
 </td>

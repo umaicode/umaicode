@@ -166,19 +166,19 @@ To ensure that users' inconveniences lead to stable service experiences, I conti
 
 <table width="100%">
   <tr>
-    <th align="left">Date</th>
+    <th align="left" nowrap>Date</th>
     <th align="left">Certificate</th>
   </tr>
   <tr>
-    <td>YYYY.MM</td>
+    <td>2026.xx</td>
     <td>정보처리기사</td>
   </tr>
   <tr>
-    <td>YYYY.MM</td>
+    <td>2026.xx</td>
     <td>SQLD</td>
   </tr>
   <tr>
-    <td>YYYY.MM</td>
+    <td>2026.xx</td>
     <td>OPIc</td>
   </tr>
     <tr>

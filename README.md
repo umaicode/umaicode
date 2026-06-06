@@ -132,7 +132,7 @@ To ensure that users' inconveniences lead to stable service experiences, I conti
 
 <table width="100%">
   <tr>
-    <td valign="top" width="50%>
+    <td valign="top" width="50%">
 
 <h2>🎓 Education</h2>
 

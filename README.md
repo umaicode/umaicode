@@ -160,7 +160,7 @@ To ensure that users' inconveniences lead to stable service experiences, I conti
 </table>
 
 </td>
-<td valign="top">
+<td valign="top" width="1%">
 
 <h2>📜 Certificate</h2>
 

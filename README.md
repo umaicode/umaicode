@@ -183,7 +183,7 @@ To ensure that users' inconveniences lead to stable service experiences, I conti
   </tr>
     <tr>
     <td>2018.02</td>
-    <td>한국사능력검정시험 1급</td>
+    <td>한국사능력검정시험1급</td>
   </tr>
 </table>
 

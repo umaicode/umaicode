@@ -174,11 +174,15 @@ To ensure that users' inconveniences lead to stable service experiences, I conti
     <td>정보처리기사</td>
   </tr>
   <tr>
-    <td>2026.xx</td>
+    <td>2026.09</td>
     <td>SQLD</td>
   </tr>
   <tr>
-    <td>2026.xx</td>
+    <td>2026.08</td>
+    <td>ADsP</td>
+  </tr>
+  <tr>
+    <td>2026.09</td>
     <td>OPIc</td>
 </table>
 

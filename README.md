@@ -170,7 +170,7 @@ To ensure that users' inconveniences lead to stable service experiences, I conti
     <th align="left">Certificate</th>
   </tr>
   <tr>
-    <td>2026.xx</td>
+    <td>2026.12</td>
     <td>정보처리기사</td>
   </tr>
   <tr>
@@ -183,7 +183,7 @@ To ensure that users' inconveniences lead to stable service experiences, I conti
   </tr>
   <tr>
     <td>2026.09</td>
-    <td>OPIc</td>
+    <td>OPIc IH</td>
 </table>
 
 </td>

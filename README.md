@@ -1,3 +1,4 @@
+<!--
 **사용자 관점**에서 문제를 바라보고, **안정적인 구조**로 서비스를 완성하는 개발자 박승찬입니다.
 저는 개발의 목적이 단순한 기능 구현이 아니라, 사용자가 더 편리하고 신뢰할 수 있는 경험을 만드는 데 있다고 생각합니다.
 그렇기 때문에 기능 하나를 만들 때도 그것이 어떤 불편함을 해결하는지, 서비스의 흐름 속에서 어떻게 자연스럽게 이어지는지 고민합니다.
@@ -7,6 +8,7 @@ I am Seungchan Park, a developer who approaches problems from the **user's persp
 I believe the purpose of development is not simply to implement features, but to create more convenient and reliable experiences for users.
 That is why, even when building a single feature, I consider what inconvenience it solves and how naturally it fits into the overall flow of the service.
 To ensure that users' inconveniences lead to stable service experiences, I continue to improve by considering even the smallest features within the broader service flow and by exploring better UX **at the intersection of design and technology**.
+-->
 
 ---
 
@@ -133,7 +135,7 @@ To ensure that users' inconveniences lead to stable service experiences, I conti
 </table>
 
 ---
-
+<!--
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
@@ -162,7 +164,7 @@ To ensure that users' inconveniences lead to stable service experiences, I conti
     <td>가온고등학교</td>
   </tr>
 </table>
-
+-->
 </td>
 <td valign="top" width="50%">
 
